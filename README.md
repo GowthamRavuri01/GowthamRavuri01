@@ -101,15 +101,6 @@ Implemented and compared multiple Machine Learning and Deep Learning models for 
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GowthamRavuri01&show_icons=true&hide_border=true&rank_icon=github"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GowthamRavuri01&layout=compact&hide_border=true"/>
-</p>
-
----
-
 ## Connect
 
 - LinkedIn: https://www.linkedin.com/in/gowthamravuri/
