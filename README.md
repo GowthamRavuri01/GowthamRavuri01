@@ -1,4 +1,5 @@
-# Gowtham Ravuri
+<h1 align="center">GOWTHAM RAVURI</h1>
+
 
 <p align="center">
   <strong>AI Engineer | Computer Vision Engineer | Machine Learning Engineer</strong>
